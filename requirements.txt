@@ -1,0 +1,2 @@
+# Standard library only — no external dependencies.
+# Python 3.8+ (uses only stdlib: re, json, csv, argparse, urllib.parse, datetime, pathlib, subprocess).

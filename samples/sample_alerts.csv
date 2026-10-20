@@ -1,0 +1,13 @@
+alert_id,title,severity,source,asset,asset_criticality
+A-1001,Impossible travel sign-in for CEO mailbox,high,siem,mail-exch-01,critical
+A-1002,Multiple failed logins from single IP,medium,firewall,web-proxy-02,medium
+A-1003,Malware hash seen on endpoint,critical,edr,ws-fin-014,high
+A-1004,New inbox forwarding rule created,high,siem,mail-exch-01,critical
+A-1005,Outbound connection to known C2 IP,critical,ti_feed,ws-hr-007,medium
+A-1006,User reported phishing email,medium,user_report,ws-sales-022,low
+A-1007,Password spray pattern detected,high,ids,idp-gateway-01,critical
+A-1008,Tor exit node sign-in attempt,high,siem,idp-gateway-01,critical
+A-1009,USB mass storage connected,low,edr,ws-ops-031,low
+A-1010,SharePoint mass download (320 files),medium,siem,sp-files-01,high
+A-1011,Failed vulnerability scan login,informational,vuln_scanner,dmz-web-03,medium
+A-1012,Brand impersonation domain in email link,high,email_gateway,mail-exch-01,critical

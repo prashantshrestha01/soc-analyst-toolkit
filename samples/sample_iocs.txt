@@ -1,0 +1,22 @@
+Subject: Urgent - verify your account
+
+Hi,
+
+Our security team detected unusual activity. Please verify your
+account immediately at:
+
+hxxp://paypa1-secure[.]login-verify[.]top/signin?session=9921
+
+If you do not verify within 24 hours your account will be locked.
+
+The link was also shared as https://bit.ly/3xK9mQ2 for convenience.
+
+Contact: support@paypa1-secure.login-verify.top
+
+Related malicious file seen in the wild:
+md5: 5d41402abc4b2a76b9719d911017c592
+sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+C2 server: 185.220.101.4 (also seen: 45.155.204[.]9)
+
+Report phishing to: abuse@contoso.com
