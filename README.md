@@ -1,5 +1,8 @@
 # SOC Analyst Toolkit
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SOC](https://img.shields.io/badge/SOC-1F6FEB?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-6E40C9?style=flat-square)
+
+
 Small, dependency-free Python tools for the repetitive parts of Tier-1 SOC work: pulling IOCs out of reports, triaging suspicious URLs, spotting brute force in auth logs, and ranking an alert queue. Built as lab tooling for my own analyst workflow practice.
 
 ## Tools
@@ -44,3 +47,13 @@ python3 tests/test_smoke.py
 ## Notes
 
 Heuristics prioritize work for an analyst; they don't prove malice. Thresholds (brute-force burst size, off-hours window, scoring weights) are tunable via CLI flags or constants at the top of each script.
+
+---
+
+### 👤 About the author
+
+**Prashant Shrestha** — Cybersecurity Specialist (CDI College, in progress) · 11+ years across SOC analysis, penetration testing & network security · Mississauga, ON 🇨🇦
+
+🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
+
+*Building in public — every project here is my own lab work.*
